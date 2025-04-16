@@ -9,3 +9,6 @@ Anggota kelompok:
 3. Daniel
 
 "Konnichiwa Minna-San, Welcome to WKWKWK Land"
+
+"今日は2025年4月16日水曜日です。GitHubにコミットしようとしました"
+Konbanwa Minna-San
